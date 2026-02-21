@@ -26,11 +26,10 @@ For each rental listing, I plan to collect:
 If scraping is unreliable or restricted, I will use a public housing listings dataset (such as the Kaggle Craigslist housing dataset filtered to the Boston area) and proceed with the same prediction goal and analysis plan.
 
 ## Project timeline (rough estimate by subtask)
-- Project setup + repo + proposal: ~1 week
 - Data collection (scraping / dataset gathering): ~2 weeks
 - Data cleaning + deduplication + formatting: ~1–2 weeks
 - Exploratory data analysis: ~1 week
 - Modeling (first real model): ~1 week
 - Feature engineering (amenities from text, neighborhood encoding, etc.): ~1–2 weeks
-- Model iteration + evaluation (compare models, error analysis): ~2 weeks
-- Final packaging (Makefile, minimal tests, workflow, README write-up, presentation): ~1–2 weeks
+- Model iteration + evaluation (compare models, error analysis): ~3 weeks
+- Final packaging (Makefile, minimal tests, workflow, README write-up, presentation): ~3 days
