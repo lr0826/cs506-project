@@ -1,6 +1,6 @@
 import pandas as pd
 
-INFILE = "housing.csv"              # you are running inside data/
+INFILE = "housing.csv"             
 OUTFILE = "ma_boston_housing.csv"
 
 # Boston-area keywords to match the "region" field
