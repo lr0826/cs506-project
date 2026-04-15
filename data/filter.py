@@ -50,9 +50,3 @@ bos = bos[(bos["price"] >= 500) & (bos["price"] <= 15000)]
 bos = bos.drop_duplicates(subset=["id"])
 
 bos.to_csv(OUTFILE, index=False)
-
-print("MA rows:", len(ma))
-print("Boston-area rows:", len(bos))
-print("Saved:", OUTFILE)
-print("Regions (top 15):")
-print(bos["region"].value_counts().head(15))
