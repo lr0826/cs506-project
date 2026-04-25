@@ -1,6 +1,6 @@
 # Boston Rent Prediction from Listings (CS506 Final Project)
 
-**Video (10-min presentation):** *(paste YouTube link here)*
+**Video (10-min presentation):** *https://youtu.be/B5Hmipv--34?si=zysRJf0o9YU6mwzp*
 
 ---
 
