@@ -29,6 +29,8 @@ make run_notebook
 
 **Metric:** Mean Absolute Error (MAE) in USD (lower is better).
 
+**Why MAE:** MAE is a good choice here because it measures the average rent error in dollars, is easy to interpret (e.g., “off by $260 on average”), and is less sensitive to extreme outliers than squared-error metrics like MSE/RMSE.
+
 ---
 
 ## Repository Organization
