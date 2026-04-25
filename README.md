@@ -54,6 +54,7 @@ make run_notebook
 
 **What’s included in this repo:**
 - data/ma_boston_housing.csv is included so results reproduce without downloading the full dataset
+
 **How to regenerate ma_boston_housing.csv (optional):**
 The full Kaggle dataset file is large (hundreds of MB), so it is not committed.
 - Download the Kaggle dataset CSV and rename it to housing.csv
